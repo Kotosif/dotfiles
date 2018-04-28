@@ -1,0 +1,11 @@
+Host github.com-Kotosif
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/Kotosif_rsa
+    IdentitiesOnly yes
+
+Host github.com-DennisTsiang
+    HostName github.com
+    User git
+    IdentityFile ~/Kaiok/.ssh/id_rsa
+    IdentitiesOnly yes
